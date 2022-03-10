@@ -1,4 +1,4 @@
-# Exercise 3
+# License Plate Number Detection And Recognition
 Các bước giải quyết bài toán:
 1. Nhận diện biển số xe có trong hình.
 2. Lấy phần hình của biển số xe nhận diện được ở bước 1 và nhận diện OCR.  
